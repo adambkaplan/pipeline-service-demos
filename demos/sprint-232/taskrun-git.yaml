@@ -1,3 +1,6 @@
+# Copyright 2023 Adam B Kaplan
+#
+# SPDX-License-Identifier: Apache-2.0
 apiVersion: tekton.dev/v1beta1
 kind: TaskRun
 metadata:

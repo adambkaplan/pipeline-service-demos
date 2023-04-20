@@ -1,3 +1,9 @@
+<!--
+Copyright 2023 Adam B Kaplan
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Sprint 232 Demo
 
 ## Highlights

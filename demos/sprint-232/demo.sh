@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Copyright 2023 Adam B Kaplan
+#
+# SPDX-License-Identifier: Apache-2.0
 
 set -e
 
