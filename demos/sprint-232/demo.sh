@@ -6,8 +6,8 @@
 
 set -e
 
-# shellcheck source=./hack/demo-magic.sh
-source ./hack/demo-magic.sh
+# shellcheck source=./hack/demo-magic/demo-magic.sh
+source ./hack/demo-magic/demo-magic.sh
 
 clear
 
